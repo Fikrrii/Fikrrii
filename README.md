@@ -31,6 +31,6 @@
 <br>
 </div>
 <hr>
-<p>Credit: <a href="https://github.com/MarciaGabrielle">fikrrixc</a>
+<p>Credit: <a href="https://github.com/Fikrrii">fikrrixc</a>
 Last Edited on: 16/06/2025</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"></div></div> 
